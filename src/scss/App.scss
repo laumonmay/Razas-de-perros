@@ -1,1 +1,10 @@
 @import 'core/reset';
+@import 'core/gallery';
+@import 'core/form';
+@import 'core/header';
+
+.app{
+    text-align: center;
+    font-size: 14px;
+    margin: 30px 20px 30px 20px;
+}

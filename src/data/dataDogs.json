@@ -1,0 +1,129 @@
+[
+    {
+        "breed":"Yorkshire Terrier",
+        "size":"Mini",
+        "weight":"3kg",
+        "temperament": "",
+        "origin":"Reino Unido",
+        "hypoallergenic":"si",
+        "img_url":"https://media.istockphoto.com/id/1318666271/es/foto/yorkshire-terrier-perro-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=X6xDljpOY04O7211-pkN4iwXpPYI9lW_XvSZZRrcQI0="
+    },
+    {
+        "breed":"Bichón Maltés",
+        "size":"Mini",
+        "weight":"3-4kg",
+        "temperament": "",
+        "origin":"Italia",
+        "hypoallergenic":"si",
+        "img_url":"https://www.animalots.com/img/mascotas/32/fotos/1489070274-opt.jpg"
+    },
+    {
+        "breed":"Chihuahua",
+        "size":"Mini",
+        "weight":"1.5-3kg",
+        "temperament": "",
+        "origin":"México",
+        "hypoallergenic":"no",
+        "img_url":"https://www.purina.es/sites/default/files/2021-02/BREED%20Hero_0034_chihuahua_smooth.jpg"
+    },
+    {
+        "breed":"Bichón Frisé",
+        "size":"Pequeño",
+        "weight":"5-8kg",
+        "temperament": "",
+        "origin":"Francia",
+        "hypoallergenic":"si",
+        "img_url":"https://artero.com/media/wysiwyg/Bichon_Fris_1_6.jpg"
+    },
+    {
+        "breed":"Border Terrier",
+        "size":"Pequeño",
+        "weight":"5-7kg",
+        "temperament": "",
+        "origin":"Reino Unido",
+        "hypoallergenic":"no",
+        "img_url":"https://www.akc.org/wp-content/uploads/2017/11/Border-Terrier-On-White-03.jpg"
+    },
+    {
+        "breed":"Boston Terrier",
+        "size":"Pequeño",
+        "weight":"5-11kg",
+        "temperament": "",
+        "origin":"Reino Unido",
+        "hypoallergenic":"no",
+        "img_url":"https://www.purina.es/sites/default/files/styles/ttt_image_510/public/2021-02/BREED%20Hero%20Mobile_0157_boston_terrier.jpg?itok=ltJmN014"
+    },
+    {
+        "breed":"Bull terrier",
+        "size":"Pequeño",
+        "weight":"25-40kg",
+        "temperament": "",
+        "origin":"Reino Unido",
+        "hypoallergenic":"no",
+        "img_url":"https://ohmydog.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fohmydog-33ee8.appspot.com%2Fo%2Fbreeds-photos%252Fcover-breed-photos%252Fbull%2520terrier.webp%3Falt%3Dmedia%26token%3D9cdd024a-2239-4ef2-bd2b-5bfe7b3072d9&w=3840&q=75"
+    },
+    {
+        "breed":"Carlino",
+        "size":"Pequeño",
+        "weight":"6-8kg",
+        "temperament": "",
+        "origin":"China",
+        "hypoallergenic":"no",
+        "img_url":"https://artero.com/media/wysiwyg/Carlino_1_1.jpg"
+    },
+    {
+        "breed":"Pekinés",
+        "size":"Pequeño",
+        "weight":"3-6kg",
+        "temperament": "",
+        "origin":"China",
+        "hypoallergenic":"no",
+        "img_url":"https://t2.ea.ltmcdn.com/es/razas/8/6/5/el-perro-pekines_568_0_600.jpg"
+    },
+    {
+        "breed":"Shiba Inu",
+        "size":"Pequeño",
+        "weight":"8-10kg",
+        "temperament": "",
+        "origin":"Japón ",
+        "hypoallergenic":"si",
+        "img_url":"https://purina.cl/sites/default/files/2023-07/SHIBA%20INU%20480X684.png"
+    },
+    {
+        "breed":"Mini Pinscher",
+        "size":"Mini",
+        "weight":"3-5kg",
+        "temperament": "",
+        "origin":"Alemania",
+        "hypoallergenic":"no",
+        "img_url":"https://www.purina.es/sites/default/files/2021-02/BREED%20Hero_0084_miniature_pinscher.jpg"
+    },
+    {
+        "breed":"Pumi",
+        "size":"Pequeño",
+        "weight":"8-15kg",
+        "temperament": "",
+        "origin":"Hungría",
+        "hypoallergenic":"si",
+        "img_url":"https://www.hundeo.com/wp-content/uploads/2019/10/Pumi-Hunderasse-Profil.jpg.webp"
+    },
+    {
+        "breed":"Terrier Australiano",
+        "size":"Pequeño",
+        "weight":"5-7kg",
+        "temperament": "",
+        "origin":"Australia",
+        "hypoallergenic":"si",
+        "img_url":"https://www.purina.es/sites/default/files/2021-02/BREED%20Hero%20Australian%20Terrier_0.jpg"
+    },
+    {
+        "breed":"Galgo italiano",
+        "size":"Pequeño",
+        "weight":"3-5kg",
+        "temperament": "",
+        "origin":"Italia",
+        "hypoallergenic":"si",
+        "img_url":"https://www.purina.es/sites/default/files/styles/ttt_image_510/public/2021-02/BREED%20Hero%20Mobile_0088_italian_greyhound.jpg?itok=4EReR_TA"
+    }
+    
+]
